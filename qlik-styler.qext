@@ -1,0 +1,20 @@
+{
+  "name": "Qlik Styler",
+  "description": "Zero-reload presentation styling engine. Target advanced sn-table cells, column indices, totals, and object wrappers beyond native theme limitations.",
+  "type": "visualization",
+  "version": "7.2.0",
+  "icon": "shapes",
+  "author": "jxp",
+  "homepage": "",
+  "keywords": "qlik-sense, styles",
+  "preview": "qlik-styler.png",
+  	"bundle": {
+		"id": "me-extension-bundle",
+		"name": "ME extensions",
+		"url": "",
+		"description": "A set of Extensions for ME"
+	},	 
+  "dependencies": {
+    "qlik-sense": ">=5.5.x"
+  }
+}
